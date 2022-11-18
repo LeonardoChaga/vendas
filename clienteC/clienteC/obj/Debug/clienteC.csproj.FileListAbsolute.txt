@@ -1,0 +1,73 @@
+C:\Users\Léo\source\repos\clienteC\clienteC\bin\Debug\clienteC.exe.config
+C:\Users\Léo\source\repos\clienteC\clienteC\bin\Debug\clienteC.exe
+C:\Users\Léo\source\repos\clienteC\clienteC\bin\Debug\clienteC.pdb
+C:\Users\Léo\source\repos\clienteC\clienteC\obj\Debug\clienteC.csproj.AssemblyReference.cache
+C:\Users\Léo\source\repos\clienteC\clienteC\obj\Debug\clienteC.cadastro.resources
+C:\Users\Léo\source\repos\clienteC\clienteC\obj\Debug\clienteC.Properties.Resources.resources
+C:\Users\Léo\source\repos\clienteC\clienteC\obj\Debug\clienteC.csproj.GenerateResource.cache
+C:\Users\Léo\source\repos\clienteC\clienteC\obj\Debug\clienteC.csproj.CoreCompileInputs.cache
+C:\Users\Léo\source\repos\clienteC\clienteC\obj\Debug\clienteC.exe
+C:\Users\Léo\source\repos\clienteC\clienteC\obj\Debug\clienteC.pdb
+C:\Users\Léo\source\repos\clienteC\clienteC\obj\Debug\UserControl1.g.cs
+C:\Users\Léo\source\repos\clienteC\clienteC\obj\Debug\clienteC_MarkupCompile.cache
+C:\Users\Léo\source\repos\clienteC\clienteC\obj\Debug\clienteC_MarkupCompile.lref
+C:\Users\Léo\source\repos\clienteC\clienteC\obj\Debug\UserControl1.baml
+C:\Users\Léo\source\repos\clienteC\clienteC\obj\Debug\clienteC.g.resources
+C:\Users\Windows\Documents\GitHub\Trabalho-Engenharia-De-Software-II\clienteC\clienteC\obj\Debug\clienteC.pdb
+C:\Users\Windows\Documents\GitHub\Trabalho-Engenharia-De-Software-II\clienteC\clienteC\bin\Debug\clienteC.exe.config
+C:\Users\Windows\Documents\GitHub\Trabalho-Engenharia-De-Software-II\clienteC\clienteC\bin\Debug\clienteC.exe
+C:\Users\Windows\Documents\GitHub\Trabalho-Engenharia-De-Software-II\clienteC\clienteC\bin\Debug\clienteC.pdb
+C:\Users\Windows\Documents\GitHub\Trabalho-Engenharia-De-Software-II\clienteC\clienteC\obj\Debug\clienteC.cadastro.resources
+C:\Users\Windows\Documents\GitHub\Trabalho-Engenharia-De-Software-II\clienteC\clienteC\obj\Debug\clienteC.Properties.Resources.resources
+C:\Users\Windows\Documents\GitHub\Trabalho-Engenharia-De-Software-II\clienteC\clienteC\obj\Debug\clienteC.csproj.GenerateResource.cache
+C:\Users\Windows\Documents\GitHub\Trabalho-Engenharia-De-Software-II\clienteC\clienteC\obj\Debug\clienteC.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Documents\GitHub\Trabalho-Engenharia-De-Software-II\clienteC\clienteC\obj\Debug\clienteC.exe
+C:\Users\Léo\Trabalho-Engenharia-De-Software-II\clienteC\clienteC\obj\Debug\clienteC.csproj.AssemblyReference.cache
+C:\Users\Léo\Trabalho-Engenharia-De-Software-II\clienteC\clienteC\obj\Debug\clienteC.pdb
+C:\Users\Léo\Trabalho-Engenharia-De-Software-II\clienteC\clienteC\bin\Debug\clienteC.exe.config
+C:\Users\Léo\Trabalho-Engenharia-De-Software-II\clienteC\clienteC\bin\Debug\clienteC.exe
+C:\Users\Léo\Trabalho-Engenharia-De-Software-II\clienteC\clienteC\bin\Debug\clienteC.pdb
+C:\Users\Léo\Trabalho-Engenharia-De-Software-II\clienteC\clienteC\obj\Debug\clienteC.cadastro.resources
+C:\Users\Léo\Trabalho-Engenharia-De-Software-II\clienteC\clienteC\obj\Debug\clienteC.Properties.Resources.resources
+C:\Users\Léo\Trabalho-Engenharia-De-Software-II\clienteC\clienteC\obj\Debug\clienteC.csproj.GenerateResource.cache
+C:\Users\Léo\Trabalho-Engenharia-De-Software-II\clienteC\clienteC\obj\Debug\clienteC.csproj.CoreCompileInputs.cache
+C:\Users\Léo\Trabalho-Engenharia-De-Software-II\clienteC\clienteC\obj\Debug\clienteC.exe
+C:\Users\Windows\Documents\GitHub\Trabalho-Engenharia-De-Software-II\clienteC\clienteC\obj\Debug\clienteC.UserControl1.resources
+C:\Users\Léo\Trabalho-Engenharia-De-Software-II\clienteC\clienteC\obj\Debug\clienteC.UserControl1.resources
+C:\Users\Windows\Documents\GitHub\Trabalho-Engenharia-De-Software-II\clienteC\clienteC\obj\Debug\clienteC.UserControl2.resources
+C:\Users\Windows\Desktop\Trabalho-Engenharia-De-Software-II - Copia\clienteC\clienteC\obj\Debug\clienteC.cadastro.resources
+C:\Users\Windows\Desktop\Trabalho-Engenharia-De-Software-II - Copia\clienteC\clienteC\obj\Debug\clienteC.funcionario.resources
+C:\Users\Windows\Desktop\Trabalho-Engenharia-De-Software-II - Copia\clienteC\clienteC\obj\Debug\clienteC.Properties.Resources.resources
+C:\Users\Windows\Desktop\Trabalho-Engenharia-De-Software-II - Copia\clienteC\clienteC\obj\Debug\clienteC.UserControl1.resources
+C:\Users\Windows\Desktop\Trabalho-Engenharia-De-Software-II - Copia\clienteC\clienteC\obj\Debug\clienteC.UserControl2.resources
+C:\Users\Windows\Desktop\Trabalho-Engenharia-De-Software-II - Copia\clienteC\clienteC\obj\Debug\clienteC.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\Trabalho-Engenharia-De-Software-II - Copia\clienteC\clienteC\obj\Debug\clienteC.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Trabalho-Engenharia-De-Software-II - Copia\clienteC\clienteC\obj\Debug\clienteC.exe
+C:\Users\Windows\Desktop\Trabalho-Engenharia-De-Software-II - Copia\clienteC\clienteC\obj\Debug\clienteC.pdb
+C:\Users\Windows\Desktop\Trabalho-Engenharia-De-Software-II - Copia\clienteC\clienteC\bin\Debug\clienteC.exe.config
+C:\Users\Windows\Desktop\Trabalho-Engenharia-De-Software-II - Copia\clienteC\clienteC\bin\Debug\clienteC.exe
+C:\Users\Windows\Desktop\Trabalho-Engenharia-De-Software-II - Copia\clienteC\clienteC\bin\Debug\clienteC.pdb
+C:\Users\Windows\Desktop\Trabalho-Engenharia-De-Software-II - Copia\clienteC\clienteC\obj\Debug\clienteC.csproj.AssemblyReference.cache
+C:\Users\Léo\Trabalho-Engenharia-De-Software-II\clienteC\clienteC\obj\Debug\clienteC.funcionario.resources
+C:\Users\Léo\Trabalho-Engenharia-De-Software-II\clienteC\clienteC\obj\Debug\clienteC.UserControl2.resources
+C:\Users\Windows\Documents\GitHub\Trabalho-Engenharia-De-Software-II\clienteC\clienteC\obj\Debug\clienteC.funcionario.resources
+C:\Users\Windows\Documents\GitHub\Trabalho-Engenharia-De-Software-II\clienteC\clienteC\obj\Debug\clienteC.compra.resources
+C:\Users\Léo\Trabalho-Engenharia-De-Software-II\clienteC\clienteC\obj\Debug\clienteC.compra.resources
+C:\Users\Windows\Documents\GitHub\Trabalho-Engenharia-De-Software-II\clienteC\clienteC\obj\Debug\clienteC.Relatorio.resources
+C:\Users\Windows\Documents\GitHub\Trabalho-Engenharia-De-Software-II\clienteC\clienteC\obj\Debug\clienteC.csproj.AssemblyReference.cache
+C:\Users\Leo\Desktop\Trabalho-Engenharia-De-Software-II-main\clienteC\clienteC\bin\Debug\clienteC.exe.config
+C:\Users\Leo\Desktop\Trabalho-Engenharia-De-Software-II-main\clienteC\clienteC\bin\Debug\clienteC.exe
+C:\Users\Leo\Desktop\Trabalho-Engenharia-De-Software-II-main\clienteC\clienteC\bin\Debug\clienteC.pdb
+C:\Users\Leo\Desktop\Trabalho-Engenharia-De-Software-II-main\clienteC\clienteC\obj\Debug\clienteC.csproj.AssemblyReference.cache
+C:\Users\Leo\Desktop\Trabalho-Engenharia-De-Software-II-main\clienteC\clienteC\obj\Debug\clienteC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leo\Desktop\Trabalho-Engenharia-De-Software-II-main\clienteC\clienteC\obj\Debug\clienteC.cadastro.resources
+C:\Users\Leo\Desktop\Trabalho-Engenharia-De-Software-II-main\clienteC\clienteC\obj\Debug\clienteC.compra.resources
+C:\Users\Leo\Desktop\Trabalho-Engenharia-De-Software-II-main\clienteC\clienteC\obj\Debug\clienteC.funcionario.resources
+C:\Users\Leo\Desktop\Trabalho-Engenharia-De-Software-II-main\clienteC\clienteC\obj\Debug\clienteC.Properties.Resources.resources
+C:\Users\Leo\Desktop\Trabalho-Engenharia-De-Software-II-main\clienteC\clienteC\obj\Debug\clienteC.Relatorio.resources
+C:\Users\Leo\Desktop\Trabalho-Engenharia-De-Software-II-main\clienteC\clienteC\obj\Debug\clienteC.UserControl1.resources
+C:\Users\Leo\Desktop\Trabalho-Engenharia-De-Software-II-main\clienteC\clienteC\obj\Debug\clienteC.UserControl2.resources
+C:\Users\Leo\Desktop\Trabalho-Engenharia-De-Software-II-main\clienteC\clienteC\obj\Debug\clienteC.csproj.GenerateResource.cache
+C:\Users\Leo\Desktop\Trabalho-Engenharia-De-Software-II-main\clienteC\clienteC\obj\Debug\clienteC.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\Trabalho-Engenharia-De-Software-II-main\clienteC\clienteC\obj\Debug\clienteC.exe
+C:\Users\Leo\Desktop\Trabalho-Engenharia-De-Software-II-main\clienteC\clienteC\obj\Debug\clienteC.pdb
